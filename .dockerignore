@@ -1,0 +1,12 @@
+# Exclude everything except what Docker needs
+.git
+.gitignore
+.dockerignore
+*.md
+*.sh
+nginx.conf
+docker-compose.yml
+*.log
+.DS_Store
+.env
+.env.*
