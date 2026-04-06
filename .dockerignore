@@ -4,7 +4,6 @@
 .dockerignore
 *.md
 *.sh
-nginx.conf
 docker-compose.yml
 *.log
 .DS_Store
